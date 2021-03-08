@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNTTYJ7u0oJJdENeXdF/sOfhJZq7bsj7OyL9I5Bi+Wea8MC0ZeP8YxxfctDk8f2CUtNAjjL5UBmaDnYTV9oxHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mortem\\Desktop\\Rectangle\\Rectangle.Console\\Rectangle.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mortem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mortem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Mortem\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mortem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Mortem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.exe
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.deps.json
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.json
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.dev.json
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.dll
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.pdb
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csprojAssemblyReference.cache
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfoInputs.cache
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfo.cs
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CoreCompileInputs.cache
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CopyComplete
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\Users\Mortem\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.genruntimeconfig.cache

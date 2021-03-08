@@ -1,0 +1,34 @@
+﻿Create a console application written in C# that implements a following method:
+
+public static Rectangle FindRectangle(List<Point> points);
+
+public class Point
+{
+	public int X {get;set;}
+	public int Y {get;set;}
+}
+
+public class Rectangle
+{
+	public int X {get;set;}
+	public int Y {get;set;}
+	public int Width {get;set;}
+	public int Height {get;set;}
+}
+
+The "FindRectangle"	method accepts a list of random points and returns a rectangle that includes all points from the list except one (all points inside and one of them outside). The rectangle coordinates may or may not match with provided points. The method should also validate an input argument by following rules:
+	- "points" argument shouldn't be null
+	- "points" should contain at least 2 points
+	- There shouldn't be points with a same coordinates
+	- It should be possible to find the rectangle, in a case if not: the input list is invalid
+
+Evaluation criteria:
+1. Correctness and business requirements fulfillment
+2. Code readability
+3. Lines of code
+4. Usage of existing .net tools, lack of low-level data manipulations
+5. C# version 5.0 or higher
+6. .net framework 4.5 or .net core 2.0 or greater
+
+Nice to have:
+7. Unit tests
